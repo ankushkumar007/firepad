@@ -33,7 +33,7 @@
   ],
   "main": "dist/firepad.min.js",
   "files": [
-    "dist/**",
+    "dist",
     "LICENSE",
     "README.md",
     "package.json"
