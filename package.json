@@ -73,6 +73,6 @@
     "travis": "grunt",
     "dev": "grunt watch",
     "build": "grunt build",
-    "prepare": "run-s build"
+    "prepare": "npm run build"
   }
 }
