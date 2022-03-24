@@ -14,6 +14,9 @@
   "browser": {
     "jsdom": false
   },
+  "engines": {
+    "node": ">=12"
+  },
   "bugs": {
     "url": "https://github.com/firebase/firepad/issues"
   },
